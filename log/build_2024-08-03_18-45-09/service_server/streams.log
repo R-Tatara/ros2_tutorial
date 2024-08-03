@@ -1,0 +1,23 @@
+[0.007s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/service_server -- -j8 -l8
+[0.045s] [100%] Built target service_server
+[0.054s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server' returned '0': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/service_server -- -j8 -l8
+[0.074s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/service_server
+[0.079s] -- Install configuration: ""
+[0.080s] -- Execute custom install script
+[0.080s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/lib/service_server/service_server
+[0.080s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/package_run_dependencies/service_server
+[0.080s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/parent_prefix_path/service_server
+[0.080s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.sh
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.dsv
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.sh
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.dsv
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.bash
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.sh
+[0.081s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.zsh
+[0.082s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.dsv
+[0.082s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.dsv
+[0.088s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/packages/service_server
+[0.088s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig.cmake
+[0.088s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig-version.cmake
+[0.089s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.xml
+[0.095s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server' returned '0': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/service_server

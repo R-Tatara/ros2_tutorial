@@ -1,0 +1,16 @@
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/lib/service_client/service_client
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/package_run_dependencies/service_client
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/parent_prefix_path/service_client
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/ament_prefix_path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/ament_prefix_path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.bash
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.zsh
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/package.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/packages/service_client
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/cmake/service_clientConfig.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/cmake/service_clientConfig-version.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/package.xml

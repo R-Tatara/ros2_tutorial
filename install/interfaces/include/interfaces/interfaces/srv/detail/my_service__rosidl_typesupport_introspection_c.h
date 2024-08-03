@@ -1,0 +1,1 @@
+/home/roy/ros2_packages/ros2_tutorial/build/interfaces/rosidl_typesupport_introspection_c/interfaces/srv/detail/my_service__rosidl_typesupport_introspection_c.h

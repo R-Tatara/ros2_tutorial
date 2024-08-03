@@ -1,0 +1,70 @@
+[0.007s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/roy/ros2_packages/ros2_tutorial/src/service_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/roy/ros2_packages/ros2_tutorial/install/service_server
+[0.050s] -- The C compiler identification is GNU 11.4.0
+[0.097s] -- The CXX compiler identification is GNU 11.4.0
+[0.103s] -- Detecting C compiler ABI info
+[0.159s] -- Detecting C compiler ABI info - done
+[0.165s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.166s] -- Detecting C compile features
+[0.166s] -- Detecting C compile features - done
+[0.168s] -- Detecting CXX compiler ABI info
+[0.234s] -- Detecting CXX compiler ABI info - done
+[0.240s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.240s] -- Detecting CXX compile features
+[0.240s] -- Detecting CXX compile features - done
+[0.242s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.366s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.417s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.437s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[0.470s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.474s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.481s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.492s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.508s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.565s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.567s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.645s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.665s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.702s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.710s] -- Looking for pthread.h
+[0.767s] -- Looking for pthread.h - found
+[0.768s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.826s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.828s] -- Found Threads: TRUE  
+[0.962s] -- Found interfaces: 0.0.0 (/home/roy/ros2_packages/ros2_tutorial/install/interfaces/share/interfaces/cmake)
+[1.062s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.127s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.127s] -- Configured cppcheck include dirs: 
+[1.127s] -- Configured cppcheck exclude dirs and/or files: 
+[1.127s] -- Added test 'lint_cmake' to check CMake code style
+[1.128s] -- Added test 'uncrustify' to check C / C++ code style
+[1.128s] -- Configured uncrustify additional arguments: 
+[1.129s] -- Added test 'xmllint' to check XML markup files
+[1.130s] -- Configuring done
+[1.138s] -- Generating done
+[1.139s] -- Build files have been written to: /home/roy/ros2_packages/ros2_tutorial/build/service_server
+[1.149s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server' returned '0': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/roy/ros2_packages/ros2_tutorial/src/service_server -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/roy/ros2_packages/ros2_tutorial/install/service_server
+[1.149s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/service_server -- -j8 -l8
+[1.186s] [ 50%] [32mBuilding CXX object CMakeFiles/service_server.dir/src/service_server.cpp.o[0m
+[3.867s] [100%] [32m[1mLinking CXX executable service_server[0m
+[3.998s] [100%] Built target service_server
+[4.008s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server' returned '0': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/service_server -- -j8 -l8
+[4.031s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/service_server
+[4.037s] -- Install configuration: ""
+[4.037s] -- Execute custom install script
+[4.037s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/lib/service_server/service_server
+[4.044s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/package_run_dependencies/service_server
+[4.052s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/parent_prefix_path/service_server
+[4.059s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.sh
+[4.066s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.dsv
+[4.073s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.sh
+[4.079s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.dsv
+[4.086s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.bash
+[4.092s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.sh
+[4.099s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.zsh
+[4.106s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.dsv
+[4.113s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.dsv
+[4.119s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/packages/service_server
+[4.127s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig.cmake
+[4.134s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig-version.cmake
+[4.141s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.xml
+[4.150s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/service_server' returned '0': AMENT_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/roy/ros2_packages/ros2_tutorial/install/interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/service_server

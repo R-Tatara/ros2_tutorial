@@ -1,0 +1,16 @@
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/lib/service_server/service_server
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/package_run_dependencies/service_server
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/parent_prefix_path/service_server
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.bash
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.sh
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.zsh
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/packages/service_server
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig-version.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.xml

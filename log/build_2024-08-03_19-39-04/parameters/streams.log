@@ -1,0 +1,26 @@
+[0.013s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/parameters -- -j8 -l8
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target parameters[0m
+[0.057s] [ 50%] [32mBuilding CXX object CMakeFiles/parameters.dir/src/parameters.cpp.o[0m
+[2.366s] [100%] [32m[1mLinking CXX executable parameters[0m
+[2.453s] [100%] Built target parameters
+[2.461s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/parameters -- -j8 -l8
+[2.480s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/parameters
+[2.485s] -- Install configuration: ""
+[2.486s] -- Execute custom install script
+[2.486s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/lib/parameters/parameters
+[2.486s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/ament_index/resource_index/package_run_dependencies/parameters
+[2.486s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/ament_index/resource_index/parent_prefix_path/parameters
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/environment/ament_prefix_path.sh
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/environment/ament_prefix_path.dsv
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/environment/path.sh
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/environment/path.dsv
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/local_setup.bash
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/local_setup.sh
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/local_setup.zsh
+[2.487s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/local_setup.dsv
+[2.487s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/package.dsv
+[2.495s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/ament_index/resource_index/packages/parameters
+[2.495s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/cmake/parametersConfig.cmake
+[2.495s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/cmake/parametersConfig-version.cmake
+[2.495s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/parameters/share/parameters/package.xml
+[2.497s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/parameters

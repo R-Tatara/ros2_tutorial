@@ -1,0 +1,1 @@
+/home/roy/ros2_packages/ros2_tutorial/build/interfaces/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

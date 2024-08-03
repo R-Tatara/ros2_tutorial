@@ -1,0 +1,1 @@
+/home/roy/ros2_packages/ros2_tutorial/build/interfaces/rosidl_generator_py/interfaces/_interfaces_s.ep.rosidl_typesupport_c.c

@@ -1,0 +1,1 @@
+/home/roy/ros2_packages/ros2_tutorial/build/interfaces/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

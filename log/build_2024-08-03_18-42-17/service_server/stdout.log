@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target service_server[0m
+[100%] Built target service_server
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/lib/service_server/service_server
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/package_run_dependencies/service_server
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/parent_prefix_path/service_server
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/environment/path.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.bash
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.zsh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/local_setup.dsv
+-- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/ament_index/resource_index/packages/service_server
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig.cmake
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/cmake/service_serverConfig-version.cmake
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_server/share/service_server/package.xml

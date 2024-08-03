@@ -1,0 +1,1 @@
+/home/roy/ros2_packages/ros2_tutorial/build/publisher/ament_cmake_environment_hooks/local_setup.zsh

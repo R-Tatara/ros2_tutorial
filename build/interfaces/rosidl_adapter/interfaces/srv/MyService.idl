@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/MyService.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module interfaces {
+  module srv {
+    struct MyService_Request {
+      geometry_msgs::msg::Point point;
+    };
+    struct MyService_Response {
+      int64 status;
+    };
+  };
+};

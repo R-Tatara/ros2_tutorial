@@ -1,0 +1,16 @@
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/lib/subscriber/subscriber
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/ament_index/resource_index/package_run_dependencies/subscriber
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/ament_index/resource_index/parent_prefix_path/subscriber
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/environment/ament_prefix_path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/environment/ament_prefix_path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/environment/path.sh
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/environment/path.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/local_setup.bash
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/local_setup.sh
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/local_setup.zsh
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/local_setup.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/package.dsv
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/ament_index/resource_index/packages/subscriber
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/cmake/subscriberConfig.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/cmake/subscriberConfig-version.cmake
+/home/roy/ros2_packages/ros2_tutorial/install/subscriber/share/subscriber/package.xml

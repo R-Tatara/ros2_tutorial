@@ -1,0 +1,11 @@
+[0.014s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/parameters -- -j8 -l8
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target parameters[0m
+[0.057s] [ 50%] [32mBuilding CXX object CMakeFiles/parameters.dir/src/parameters.cpp.o[0m
+[1.760s] [01m[K/home/roy/ros2_packages/ros2_tutorial/src/parameters/src/parameters.cpp:[m[K In constructor ‘[01m[KMinimalParameter::MinimalParameter()[m[K’:
+[1.760s] [01m[K/home/roy/ros2_packages/ros2_tutorial/src/parameters/src/parameters.cpp:28:8:[m[K [01;31m[Kerror: [m[Klvalue required as unary ‘[01m[K&[m[K’ operand
+[1.760s]    28 |       &[01;31m[Kthis[m[K::timer_callback, // Callback function to call
+[1.760s]       |        [01;31m[K^~~~[m[K
+[2.092s] gmake[2]: *** [CMakeFiles/parameters.dir/build.make:76: CMakeFiles/parameters.dir/src/parameters.cpp.o] Error 1
+[2.092s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/parameters.dir/all] Error 2
+[2.092s] gmake: *** [Makefile:146: all] Error 2
+[2.094s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/parameters' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/parameters -- -j8 -l8

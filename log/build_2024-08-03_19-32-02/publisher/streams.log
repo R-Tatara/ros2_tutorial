@@ -1,0 +1,25 @@
+[0.014s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/publisher -- -j8 -l8
+[0.054s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[3.324s] [100%] [32m[1mLinking CXX executable publisher[0m
+[3.456s] [100%] Built target publisher
+[3.464s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/publisher -- -j8 -l8
+[3.484s] Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/publisher
+[3.489s] -- Install configuration: ""
+[3.489s] -- Execute custom install script
+[3.490s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/lib/publisher/publisher
+[3.490s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/ament_index/resource_index/package_run_dependencies/publisher
+[3.490s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/ament_index/resource_index/parent_prefix_path/publisher
+[3.490s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/environment/ament_prefix_path.sh
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/environment/ament_prefix_path.dsv
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/environment/path.sh
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/environment/path.dsv
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/local_setup.bash
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/local_setup.sh
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/local_setup.zsh
+[3.491s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/local_setup.dsv
+[3.491s] -- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/package.dsv
+[3.498s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/ament_index/resource_index/packages/publisher
+[3.498s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/cmake/publisherConfig.cmake
+[3.498s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/cmake/publisherConfig-version.cmake
+[3.498s] -- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/publisher/share/publisher/package.xml
+[3.500s] Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/publisher

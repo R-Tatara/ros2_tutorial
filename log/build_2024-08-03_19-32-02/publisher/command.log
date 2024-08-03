@@ -1,0 +1,4 @@
+Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/publisher -- -j8 -l8
+Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/roy/ros2_packages/ros2_tutorial/build/publisher -- -j8 -l8
+Invoking command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/publisher
+Invoked command in '/home/roy/ros2_packages/ros2_tutorial/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/roy/ros2_packages/ros2_tutorial/build/publisher

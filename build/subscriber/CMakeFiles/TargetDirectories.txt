@@ -1,0 +1,10 @@
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/uninstall.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/subscriber_uninstall.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/subscriber.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/test.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/edit_cache.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/rebuild_cache.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/list_install_components.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/install.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/install/local.dir
+/home/roy/ros2_packages/ros2_tutorial/build/subscriber/CMakeFiles/install/strip.dir

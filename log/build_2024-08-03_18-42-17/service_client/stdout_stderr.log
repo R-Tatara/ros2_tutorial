@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target service_client[0m
+[100%] Built target service_client
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/lib/service_client/service_client
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/package_run_dependencies/service_client
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/parent_prefix_path/service_client
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/path.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/environment/path.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.bash
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.sh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.zsh
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/local_setup.dsv
+-- Symlinking: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/package.dsv
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/ament_index/resource_index/packages/service_client
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/cmake/service_clientConfig.cmake
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/cmake/service_clientConfig-version.cmake
+-- Up-to-date symlink: /home/roy/ros2_packages/ros2_tutorial/install/service_client/share/service_client/package.xml
